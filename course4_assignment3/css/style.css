@@ -1,0 +1,16 @@
+.box {
+	border: 1px solid black;
+	background-color: #b848b2;
+	width: 90%;
+	height: 1000px;
+    margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: Helvetica;
+	color: white;
+}
+p {
+	margin: 5% 5% 5% 5%;
+	clear: right;
+}
